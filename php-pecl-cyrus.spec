@@ -11,7 +11,7 @@ Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
 # Source0-md5:	f0749ead144a8ddfd29d2961057d181b
 URL:		http://pecl.php.net/package/cyrus/
-BuildRequires:	cyrus-imapd-static
+BuildRequires:	cyrus-imapd-devel
 BuildRequires:	libtool
 BuildRequires:	php-devel
 Requires:	php-common
