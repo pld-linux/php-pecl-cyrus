@@ -27,7 +27,7 @@ An extension which eases the manipulation of Cyrus IMAP servers.
 In PECL status of this package is: %{_status}.
 
 %description -l pl
-Rozszerzenie, które u³atia manipulacje serwerami Cyrus IMAP.
+Rozszerzenie, które u³atwia manipulacje serwerami Cyrus IMAP.
 
 To rozszerzenie ma w PECL status: %{_status}.
 
