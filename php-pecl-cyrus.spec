@@ -1,7 +1,7 @@
 %define		_modname	cyrus
 %define		_status		stable
 Summary:	%{_modname} - eases manipulation of IMAP servers
-Summary(pl.UTF-8):   %{_modname} - ułatwienie manipulacji serwerami IMAP
+Summary(pl.UTF-8):	%{_modname} - ułatwienie manipulacji serwerami IMAP
 Name:		php-pecl-%{_modname}
 Version:	1.0
 Release:	2
