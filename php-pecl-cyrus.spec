@@ -1,7 +1,7 @@
 %define		_modname	cyrus
 %define		_status		stable
 Summary:	%{_modname} - eases manipulation of IMAP servers
-Summary(pl):	%{_modname} - u≥atwienie manipulacji serwerami IMAP
+Summary(pl.UTF-8):   %{_modname} - u≈Çatwienie manipulacji serwerami IMAP
 Name:		php-pecl-%{_modname}
 Version:	1.0
 Release:	2
@@ -23,8 +23,8 @@ An extension which eases the manipulation of Cyrus IMAP servers.
 
 In PECL status of this package is: %{_status}.
 
-%description -l pl
-Rozszerzenie, ktÛre u≥atwia manipulacje serwerami Cyrus IMAP.
+%description -l pl.UTF-8
+Rozszerzenie, kt√≥re u≈Çatwia manipulacje serwerami Cyrus IMAP.
 
 To rozszerzenie ma w PECL status: %{_status}.
 
