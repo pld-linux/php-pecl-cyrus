@@ -5,7 +5,7 @@ Summary(pl.UTF-8):	%{_modname} - ułatwienie manipulacji serwerami IMAP
 Name:		php-pecl-%{_modname}
 Version:	1.0
 Release:	2
-License:	PHP 2.02
+License:	PHP 3.01
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
 # Source0-md5:	f0749ead144a8ddfd29d2961057d181b
